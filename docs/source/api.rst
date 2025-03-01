@@ -1,7 +1,12 @@
-API
-===
+API Reference
+================
 
-.. autosummary::
-   :toctree: generated
+.. automodule:: server.server
+   :members:
+   :undoc-members:
+   :show-inheritance:
 
-   lumache
+.. automodule:: server.cli
+   :members:
+   :undoc-members:
+   :show-inheritance:
